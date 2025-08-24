@@ -137,16 +137,12 @@ type CepResult struct {
 - Se uma API falhar, a outra ainda pode retornar sucesso
 - O timeout de 1 segundo é aplicado globalmente às duas consultas
 - A estrutura `Adress` unifica os formatos de resposta das APIs para facilitar o uso
-- Testes realizados em 23/08/2025 às 23:12
 
 ## 📜 Licença
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para detalhes.
 
-## 🙏 Agradecimentos
-
-Agradeço à xAI e ao Grok pelo suporte e orientação na construção deste projeto! 🌟
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Eliezer** como parte de um desafio de programação em Go.
+Desenvolvido por **Eliezer Alves** como parte de um desafio de programação em Go.
